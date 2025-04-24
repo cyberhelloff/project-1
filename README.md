@@ -1,6 +1,6 @@
 # project-1
 
-# CyberSentinel - Penetration Testing Framework
+# Cyber Jay - Penetration Testing Framework
 
 A comprehensive penetration testing framework built in Python for security assessment and vulnerability scanning.
 
